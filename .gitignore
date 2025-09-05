@@ -1,0 +1,13 @@
+.vscode/
+test_add
+test_delete
+test_modify
+test_sort
+test_search
+test_analytics
+test_file
+test_view
+
+student_system
+student-management
+main
